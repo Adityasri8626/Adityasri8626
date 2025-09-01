@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/5hR4s5z/github-banner.png" alt="Aditya Srivastava Banner"/>
+  <img src="picofme.png" alt="Aditya Srivastava Banner"/>
 </p>
 
 # 👋 Hi, I'm Aditya Srivastava  

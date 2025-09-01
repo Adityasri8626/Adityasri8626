@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="picofme.png" alt="Aditya Srivastava Banner"/>
+  <img src="picofme.png" alt="Aditya Srivastava Banner"width="600"/>
 </p>
 
 # 👋 Hi, I'm Aditya Srivastava  

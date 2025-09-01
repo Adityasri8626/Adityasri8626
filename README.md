@@ -16,7 +16,8 @@ I’m a passionate and detail-oriented analytics enthusiast with hands-on experi
 
 In addition, I am skilled in web development languages such as HTML and CSS, with experience in building responsive and user-friendly frontends. This enables me to effectively present data and analytics through well-designed dashboards and web applications.𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 & 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐋𝐨𝐯𝐞𝐥𝐲 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 I’m a passionate and detail-oriented analytics enthusiast with hands-on experience in tools like Excel, SQL, Power BI, and Python. I thrive on transforming raw data into meaningful insights that help drive smarter decisions. My focus is on data storytelling, dashboard creation, and solving real-world business problems through data. In addition, I am skilled in web development languages such as HTML and CSS, with experience in building responsive and user-friendly frontends. This enables me to effectively present data and analytics through well-designed dashboards and web applications.
 
-Top skills
+## Top skills
+
 Python (Programming Language) • Microsoft Office • Microsoft Power BI • MySQL • Data Visualization
 ---
 

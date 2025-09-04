@@ -57,14 +57,6 @@ Python (Programming Language) • Microsoft Office • Microsoft Power BI • My
 - Developed **interactive Power BI dashboards** with KPIs and city/service filters.  
   
 
----
-
-### 🔹 BIZZPULSE – AUTO DATA CLEANER | Python, Streamlit *(Jun ’25)*
-- Built an **automated data cleaning app** in Streamlit for intelligent **null handling, outlier detection, type correction, and normalization**.  
-- Designed for **business analysts** to preprocess CSV files with one click.  
-- **Live App:** [BizPulse](https://bizpulse.streamlit.app/)  
-
----
 
 ### 🔹 ZOMATO INDIA RESTAURANT DATA ANALYSIS | R, ggplot2, dplyr *(Mar ’25)*
 - Analyzed **9,000+ restaurant records** to study **pricing, cuisines, city-wise trends, and customer preferences**.  
@@ -86,13 +78,7 @@ Python (Programming Language) • Microsoft Office • Microsoft Power BI • My
 
 ---
 
-### 🔹 INTELLI WEAR – AI-BASED FASHION E-COMMERCE PLATFORM | HTML5, CSS3 *(Under Development)*
-- Designing a **responsive e-commerce website** for AI-driven **fashion recommendations**.  
-- Features: product listing, category filters, cart, secure checkout, real-time pricing logic.  
-- Planned modules: **chatbot integration** & **inventory tracking**.  
-- Built with assistance from **AI tools** for layout, content, and design improvements.  
 
----
 
 ## 📊 GitHub Stats
 <p align="center">

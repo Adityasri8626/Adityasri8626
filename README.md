@@ -54,7 +54,8 @@ Python (Programming Language) • Microsoft Office • Microsoft Power BI • My
   - Lucknow had the **highest avg. pricing (₹1062)**  
   - Microwave Repair → **38.4% labor cost share**  
   - Hyderabad–Chennai–Pune led in **total revenue**  
-- Developed **interactive Power BI dashboards** with KPIs and city/service filters.  
+- Developed **interactive Power BI dashboards** with KPIs and city/service filters.
+- - Project Link:(https://github.com/Adityasri8626/Urban_Company-Analysis-)  
   
 
 
@@ -63,7 +64,7 @@ Python (Programming Language) • Microsoft Office • Microsoft Power BI • My
 - Engineered new features: **PriceCategory (Low/Medium/High)** & **PopularityTag (Popular/Regular)**.  
 - Insights: Budget-friendly restaurants (< ₹300) with **ratings ≥ 4.0** are clustered in **New Delhi**, creating a **high-value, low-cost market segment**.  
 - Used **ggplot2** for bar charts, scatter plots, boxplots; applied **regression & ANOVA** for cost-rating relationships.  
-- Project Link: [RPubs Report](https://rpubs.com/Adityasri8626/1302988)  
+- Project Link: (https://github.com/Adityasri8626/Zomato-India-Restaurant-Data-Analysis)  
 
 ---
 
@@ -74,7 +75,7 @@ Python (Programming Language) • Microsoft Office • Microsoft Power BI • My
   - **Festivals** → seasonal transaction spikes  
   - **Tier 2/3 cities** → untapped growth potential  
 - Built **Power BI dashboards** with maps, slicers, KPIs & storytelling visuals.  
-
+- Project Link: (https://github.com/Adityasri8626/Phone-Pe-Data-Analysis-)  
 
 ---
 

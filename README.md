@@ -40,8 +40,6 @@ Python (Programming Language) • Microsoft Office • Microsoft Power BI • My
 `Basic AI Tools` `Prompt Engineering` `GitHub Copilot`  
 `ChatGPT` `AI-assisted Development & Design`
 
-**Soft Skills**
-
 ---
 
 ## 📌 Featured Projects
